@@ -1,1 +1,18 @@
+[
+  {
+    "title": "Complete Assignment",
+    "deadline": "Due today at 11:59 PM",
+    "description": "Ensure all sections are well written and formatted."
+  },
+  {
+    "title": "Prepare for Exam",
+    "deadline": "Review notes and practice questions",
+    "description": "Allocate at least 3 hours to revise core concepts."
+  },
+  {
+    "title": "Project Deadline",
+    "deadline": "Submit group project by 5 PM",
+    "description": "Review final document and confirm all contributions."
+  }
+]
 
