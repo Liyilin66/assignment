@@ -1,27 +1,24 @@
-[
-  {
-    "featureName": "Complete Assignment",
-    "description": "Ensure all sections are well written and formatted.",
-    "isEnabled": true
-  },
-  {
-    "featureName": "Prepare for Exam",
-    "description": "Allocate at least 3 hours to revise core concepts.",
-    "isEnabled": true
-  },
-  {
-    "featureName": "Project Deadline",
-    "description": "Review final document and confirm all contributions.",
-    "isEnabled": true
-  },
-  {
-    "featureName": "Part-time Job Shift",
-    "description": "Assist customers and manage store inventory.",
-    "isEnabled": true
-  },
-  {
-    "featureName": "Dinner with Friends",
-    "description": "Catch up and enjoy quality time at the cafe.",
-    "isEnabled": true
-  }
-]
+{
+  "suggestions": [
+    {
+      "title": "Don't Cram!",
+      "description": "It might be tempting to leave all your studying for that big exam up until the last minute, but research suggests that cramming does not improve longer term learning. Students may perform well on a test for which they’ve crammed, but that doesn’t mean they’ve truly learned the material, says an article from the American Psychological Association. Instead of cramming, studies have shown that studying with the goal of long-term retention is best for learning overall."
+    },
+    {
+      "title": "Plan Ahead—and Stick To It!",
+      "description": "Having a study plan with set goals can help you feel more prepared and can give you a roadmap to follow. Schwab said procrastination is one mistake that students often make when transitioning to a university-level course load. 'Oftentimes, students are used to less intensive workloads in high school, so one of my biggest pieces of advice is don’t cram. Set yourself a study schedule ahead of time and stick to it.'"
+    },
+    {
+      "title": "Ask for Help",
+      "description": "You don’t have to struggle through difficult material on your own. Many students are not used to seeking help while in high school, but seeking extra support is common in college. As our guide to pursuing a biology major explains, 'Be proactive about identifying areas where you need assistance and seek out that assistance immediately. The longer you wait, the more difficult it becomes to catch up.' There are multiple resources to help you, including your professors, tutors, and fellow classmates. Harvard’s Academic Resource Center offers academic coaching, workshops, peer tutoring, and accountability hours for students to keep you on track."
+    },
+    {
+      "title": "Use the Buddy System",
+      "description": "Your fellow students are likely going through the same struggles that you are. Reach out to classmates and form a study group to go over material together, brainstorm, and to support each other through challenges. Having other people to study with means you can explain the material to one another, quiz each other, and build a network you can rely on throughout the rest of the class—and beyond."
+    },
+    {
+      "title": "Find Your Learning Style",
+      "description": "It might take a bit of time (and trial and error!) to figure out what study methods work best for you. There are a variety of ways to test your knowledge beyond simply reviewing your notes or flashcards. Schwab recommends trying different strategies through the process of metacognition. Metacognition involves thinking about your own cognitive processes and can help you figure out what study methods are most effective for you."
+    }
+  ]
+}
