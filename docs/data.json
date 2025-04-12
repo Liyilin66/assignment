@@ -8,5 +8,20 @@
     "featureName": "Prepare for Exam",
     "description": "Allocate at least 3 hours to revise core concepts.",
     "isEnabled": true
+  },
+  {
+    "featureName": "Project Deadline",
+    "description": "Review final document and confirm all contributions.",
+    "isEnabled": true
+  },
+  {
+    "featureName": "Part-time Job Shift",
+    "description": "Assist customers and manage store inventory.",
+    "isEnabled": true
+  },
+  {
+    "featureName": "Dinner with Friends",
+    "description": "Catch up and enjoy quality time at the cafe.",
+    "isEnabled": true
   }
 ]
