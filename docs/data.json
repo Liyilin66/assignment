@@ -1,27 +1,13 @@
 [
   {
-    "title": "Complete Assignment",
-    "deadline": "Due today at 11:59 PM",
-    "description": "Ensure all sections are well written and formatted."
+    "featureName": "Complete Assignment",
+    "description": "Ensure all sections are well written and formatted.",
+    "isEnabled": true
   },
   {
-    "title": "Prepare for Exam",
-    "deadline": "Review notes and practice questions",
-    "description": "Allocate at least 3 hours to revise core concepts."
-  },
-  {
-    "title": "Project Deadline",
-    "deadline": "Submit group project by 5 PM",
-    "description": "Review final document and confirm all contributions."
-  },
-  {
-    "title": "Part-time Job Shift",
-    "deadline": "Today from 4 PM - 8 PM",
-    "description": "Assist customers and manage store inventory."
-  },
-  {
-    "title": "Dinner with Friends",
-    "deadline": "Tonight at 7:30 PM",
-    "description": "Catch up and enjoy quality time at the cafe."
+    "featureName": "Prepare for Exam",
+    "description": "Allocate at least 3 hours to revise core concepts.",
+    "isEnabled": true
   }
+  // 其它任务...
 ]
